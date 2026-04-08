@@ -1,6 +1,8 @@
 # Verilog_Codes
 
-This repository contains my implementation of fundamental digital logic gates using Verilog HDL. The goal is to understand how basic hardware logic is represented and written using code.
+This repository contains my implementation of fundamental digital circuits using Verilog HDL and simulated in Xilinx Vivado. The goal is to understand digital logic design, HDL coding, and simulation workflows and how basic hardware logic is represented and written using code.
+
+
 
 ---
 
@@ -50,6 +52,7 @@ src/
      ├── nor_gate.v
      ├── xor_gate.v
      └── xnor_gate.v
+
 ```
 
 ---
@@ -62,22 +65,29 @@ To build a strong foundation in digital design by implementing basic logic gates
 ✨ Key Highlights
 
 * Clean and readable Verilog code
-* Consistent naming conventions
-* Structured project organization
+* Verilog Module and ports
 * Focus on fundamental digital building blocks
+* Testbench Creation
+* Simulation and Waveformform Analysis
 
 ---
 
  🛠 Tools Used
 
-* Verilog HDL
+* Xilinx Vivado
 * Visual Studio Code
 * HDLBits (for practice)
+
+---
+
+✨Learning Outcome
+* Understanding of basic digital circuits.
+* Hand-on experience with Verilog HDL.
+* Ability to simulate and verify logic designs in Vivado.
 
 ---
 
 👩‍💻 Author
 Jaspreet ECE
 
-
-Jaspreet
+---
