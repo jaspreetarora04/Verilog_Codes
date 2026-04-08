@@ -41,14 +41,15 @@ Outputs high when inputs are the same.
  📁 Project Structure
 
 src/
-└── basic_gates/
-├── and_gate.v
-├── or_gate.v
-├── not_gate.v
-├── nand_gate.v
-├── nor_gate.v
-├── xor_gate.v
-└── xnor_gate.v
+└── basic_gates/ 
+
+├── and_gate.v 
+├── or_gate.v 
+├── not_gate.v 
+├── nand_gate.v 
+├── nor_gate.v 
+├── xor_gate.v 
+└── xnor_gate.v 
 
 ---
 
