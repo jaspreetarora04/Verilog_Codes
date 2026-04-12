@@ -1,4 +1,4 @@
-module demux4_1 (
+module demux1_4 (
     input D,
     input [1:0] sel,
     output reg [3:0] y
